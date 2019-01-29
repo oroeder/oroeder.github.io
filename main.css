@@ -39,12 +39,18 @@ li a {
 	border-bottom: none;
 }
 
+.intro {
+	font-size:120%;>
+}
+
 .feature {
   	max-width: 800px;
   	color: 696969;
 }
 
 .feature .desc {
+	width: 800px;
+	display: inline-block;
 	margin-bottom: 1em;
 	border-style: dotted;
 	border-color: #C0C0C0;
