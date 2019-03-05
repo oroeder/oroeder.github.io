@@ -1,6 +1,6 @@
 body {
- 	font-family: Palatino, Serif;
- 	font-size: 14px;
+ 	font-family: "Times New Roman", Times, Serif;
+ 	font-size: 15px;
  	margin: 40px;
  	max-width: 900px;
 }
@@ -30,7 +30,7 @@ li {
 a {
  	color: #0645AD;
  	text-decoration: none;
- 	border-bottom: 2px dotted #0645AD; 	
+ 	
 }
 
 li a {
@@ -55,7 +55,7 @@ li a {
 	margin-left: -1em;
 	margin-right: -1em;
 	border-style: dotted;
-	border-color: #C0C0C0;
+	border-color: #dadada;
 	border-radius: 15px;
 	border-width: 2px;
 	padding: 10px;
