@@ -10,14 +10,6 @@ body {
 }
 
 
-@media only screen and (max-width: 1250px) {
-  body {
-    font-size: 40px;
-  }
-}
-
-
-
 h1 {
  	font-family: Helvetica, Sans-serif;
 
