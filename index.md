@@ -15,7 +15,7 @@
 <meta name="keywords" content="Oliver Roeder, writer, FiveThirtyEight, 538, ollie roeder, journalist, journalism, puzzle, math puzzle, The Riddler, Nieman Fellow, Harvard"/>
 </head>
 
-## Oliver Roeder
+# Oliver Roeder
 
 I'm currently teaching data journalism at Harvard Summer School. During the 2019–20 academic year, I was a [Nieman Fellow](https://nieman.harvard.edu/alumni/class-of-2020/) at Harvard University studying artificial intelligence. Previously, I was a senior writer and the puzzle editor at [FiveThirtyEight](http://fivethirtyeight.com/).
 
@@ -25,7 +25,7 @@ I am interested in competitive subcultures, politics, art and its market, and ou
 
 Below, you can find my [books](#books), a categorized selection of my [articles](#articles), some examples of my [data visualization](#data-visualization), and a selection of my [media appearances](#media-appearances).
 
-### Books
+## Books
 
 [*Play: The Games that Make Us Human*](https://twitter.com/ollie/status/1040276336475025409) (W.W. Norton, forthcoming 2021)
 
@@ -35,9 +35,9 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
 
 >A collection of my weekly math columns and the first book under the FiveThirtyEight banner.
 
-### Articles
+## Articles
 
-#### Games and sports
+### Games and sports
 
 [It's Hard To Win At Poker Against An Opponent With No Tell](https://fivethirtyeight.com/features/robots-are-beating-humans-at-poker/)
 
@@ -83,7 +83,7 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
 
 [What Makes Nigel Richards The Best Scrabble Player On Earth](http://fivethirtyeight.com/features/what-makes-nigel-richards-the-best-scrabble-player-on-earth/)
 
-#### Politics and government
+### Politics and government
 
 [Which 2020 Candidates Have The Most In Common … On Twitter?](https://fivethirtyeight.com/features/which-2020-candidates-have-the-most-in-common-on-twitter/) (with Gus Wezerek)
 
@@ -121,7 +121,7 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
 
 >An unemployed 30-year-old man in Queens, New York, is the best Supreme Court predictor in the world—better than the hotshot lawyers, better than the court reporters, better than the fancy algorithms. In fact, he won FantasySCOTUS, the premier Supreme Court predicting league, three years in a row. But the computers are coming for him. "With time, they might be able to do what they did to Garry Kasparov," he told me.
 
-#### Science and math
+### Science and math
 
 [Journalism and Prediction during the Coronavirus Pandemic](https://niemanreports.org/articles/journalism-and-prediction-during-the-coronavirus-pandemic/), *Nieman Reports*
 
@@ -141,7 +141,7 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
 
 [Can An Astrophysicist Change The Way We Watch Sports?](http://fivethirtyeight.com/features/can-an-astrophysicist-change-the-way-we-watch-sports/)
 
-#### Art and culture
+### Art and culture
 
 [The Future Of Art Is Pepe The Frog](https://fivethirtyeight.com/features/pepe-the-frog-symbolism-cryptoart-blockchain/) and [Neo-Warholism In The Age Of Big Dada](https://fivethirtyeight.com/features/blockchain-is-just-another-way-make-art-all-about-money/)
 
@@ -169,7 +169,7 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
 
 [A Nerd's Guide To The 2,229 Paintings At MoMA](http://fivethirtyeight.com/features/a-nerds-guide-to-the-2229-paintings-at-moma/)
 
-### Data visualization
+## Data visualization
 
 <a href="https://fivethirtyeight.com/features/the-man-who-solved-jeopardy/" target="_blank"><img src="https://oroeder.github.io/roeder-jeopardy-3.png" width="350"></a>
 
@@ -195,9 +195,9 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
 
 <a href="https://fivethirtyeight.com/features/how-qi-and-za-changed-scrabble/" target="_blank"><img src="https://oroeder.github.io/roeder-scrabble-2.png" width="350"></a>
            
-### Media appearances
+## Media appearances
 
-#### Video
+### Video
 
 [What Makes The Spelling Bee So Hard](https://www.facebook.com/fivethirtyeight/videos/vl.337135929962582/1465697286807429/?type=1)
 
@@ -211,7 +211,7 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
 
 [Can an astrophysicist change the way we watch sports?](http://www.espn.com/core/video/iframe?id=13979112)
 
-#### Audio and print
+### Audio and print
 
 ["Jeopardy!" analytics](https://www.cbc.ca/radio/day6/canada-s-flood-map-failures-jeopardy-s-new-champ-so-long-payless-shoes-and-more-1.5110560/the-nerds-are-winning-how-james-holzhauer-is-using-analytics-to-win-at-jeopardy-1.5110628) on the CBC's Day 6
 
