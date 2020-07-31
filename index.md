@@ -9,7 +9,7 @@
   gtag('config', 'UA-133880752-1');
 </script>
 
-<title>Oliver Roeder : Journalist</title>
+<title>Oliver Roeder: Journalist</title>
 <link rel="stylesheet" type="text/css" href="main.css" />
 <meta name="description" content="Oliver Roeder is a journalist."/>
 <meta name="keywords" content="Oliver Roeder, writer, FiveThirtyEight, 538, ollie roeder, journalist, journalism, puzzle, math puzzle, The Riddler, Nieman Fellow, Harvard"/>
