@@ -171,23 +171,7 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
 
 ## Data visualization
 
-<a href="https://fivethirtyeight.com/features/the-man-who-solved-jeopardy/" target="_blank"><img src="https://oroeder.github.io/roeder-jeopardy-3.png" width="350"></a><a href="https://fivethirtyeight.com/features/carlsens-bizarre-decision-has-sent-the-world-chess-championship-to-overtime/" target="_blank"><img src="https://oroeder.github.io/roeder-chess-champ-game-12.png" width="350"></a><a href="https://fivethirtyeight.com/features/an-excavation-of-one-of-the-worlds-greatest-art-collections/" target="_blank"><img src="https://oroeder.github.io/roeder-met-3.png" width="350"></a><a href="https://fivethirtyeight.com/features/the-worst-tweeter-in-politics-isnt-trump/" target="_blank"><img src="https://oroeder.github.io/roedermehta-tweets-21.png" width="350"></a>
-
-<a href="https://fivethirtyeight.com/features/what-makes-nigel-richards-the-best-scrabble-player-on-earth/" target="_blank"><img src="https://oroeder.github.io/oliver-feature-scrabble-1.png" width="350"></a>
-
-<a href="https://fivethirtyeight.com/features/dan-feyer-american-crossword-puzzle-tournament/" target="_blank"><img src="https://oroeder.github.io/roeder-feature-crosswords-1.png" width="350"></a>
-
-<a href="https://fivethirtyeight.com/features/an-excavation-of-one-of-the-worlds-greatest-art-collections/" target="_blank"><img src="https://oroeder.github.io/roeder-met-1.png" width="350"></a>
-
-<a href="https://fivethirtyeight.com/features/the-weird-world-of-expensive-wine/" target="_blank"><img src="https://oroeder.github.io/roeder-wine-5.png" width="350"></a>
-
-<a href="https://fivethirtyeight.com/features/complete-catalog-curses-deaths-quentin-tarantino-films/" target="_blank"><img src="https://oroeder.github.io/roeder-tarantino-1.png" width="350"></a>
-
-<a href="https://fivethirtyeight.com/features/how-cable-news-reacted-to-the-cohen-hearing/" target="_blank"><img src="https://oroeder.github.io/mehta-roeder-mediaquery-1.png" width="350"></a>
-
-<a href="https://fivethirtyeight.com/features/the-most-conservative-and-most-liberal-elite-law-schools/" target="_blank"><img src="https://oroeder.github.io/roeder-feature-lawschools1.png" width="350"></a>
-
-<a href="https://fivethirtyeight.com/features/how-qi-and-za-changed-scrabble/" target="_blank"><img src="https://oroeder.github.io/roeder-scrabble-2.png" width="350"></a>
+<a href="https://fivethirtyeight.com/features/the-man-who-solved-jeopardy/" target="_blank"><img src="https://oroeder.github.io/roeder-jeopardy-3.png" width="350"></a><a href="https://fivethirtyeight.com/features/carlsens-bizarre-decision-has-sent-the-world-chess-championship-to-overtime/" target="_blank"><img src="https://oroeder.github.io/roeder-chess-champ-game-12.png" width="350"></a><a href="https://fivethirtyeight.com/features/an-excavation-of-one-of-the-worlds-greatest-art-collections/" target="_blank"><img src="https://oroeder.github.io/roeder-met-3.png" width="350"></a><a href="https://fivethirtyeight.com/features/the-worst-tweeter-in-politics-isnt-trump/" target="_blank"><img src="https://oroeder.github.io/roedermehta-tweets-21.png" width="350"></a><a href="https://fivethirtyeight.com/features/what-makes-nigel-richards-the-best-scrabble-player-on-earth/" target="_blank"><img src="https://oroeder.github.io/oliver-feature-scrabble-1.png" width="350"></a><a href="https://fivethirtyeight.com/features/dan-feyer-american-crossword-puzzle-tournament/" target="_blank"><img src="https://oroeder.github.io/roeder-feature-crosswords-1.png" width="350"></a><a href="https://fivethirtyeight.com/features/an-excavation-of-one-of-the-worlds-greatest-art-collections/" target="_blank"><img src="https://oroeder.github.io/roeder-met-1.png" width="350"></a><a href="https://fivethirtyeight.com/features/the-weird-world-of-expensive-wine/" target="_blank"><img src="https://oroeder.github.io/roeder-wine-5.png" width="350"></a><a href="https://fivethirtyeight.com/features/complete-catalog-curses-deaths-quentin-tarantino-films/" target="_blank"><img src="https://oroeder.github.io/roeder-tarantino-1.png" width="350"></a><a href="https://fivethirtyeight.com/features/how-cable-news-reacted-to-the-cohen-hearing/" target="_blank"><img src="https://oroeder.github.io/mehta-roeder-mediaquery-1.png" width="350"></a><a href="https://fivethirtyeight.com/features/the-most-conservative-and-most-liberal-elite-law-schools/" target="_blank"><img src="https://oroeder.github.io/roeder-feature-lawschools1.png" width="350"></a><a href="https://fivethirtyeight.com/features/how-qi-and-za-changed-scrabble/" target="_blank"><img src="https://oroeder.github.io/roeder-scrabble-2.png" width="350"></a>
            
 ## Media appearances
 
