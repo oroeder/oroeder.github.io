@@ -171,13 +171,7 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
 
 ## Data visualization
 
-<a href="https://fivethirtyeight.com/features/the-man-who-solved-jeopardy/" target="_blank"><img src="https://oroeder.github.io/roeder-jeopardy-3.png" width="350"></a>
-
-<a href="https://fivethirtyeight.com/features/carlsens-bizarre-decision-has-sent-the-world-chess-championship-to-overtime/" target="_blank"><img src="https://oroeder.github.io/roeder-chess-champ-game-12.png" width="350"></a>
-
-<a href="https://fivethirtyeight.com/features/an-excavation-of-one-of-the-worlds-greatest-art-collections/" target="_blank"><img src="https://oroeder.github.io/roeder-met-3.png" width="350"></a>
-
-<a href="https://fivethirtyeight.com/features/the-worst-tweeter-in-politics-isnt-trump/" target="_blank"><img src="https://oroeder.github.io/roedermehta-tweets-21.png" width="350"></a>
+<a href="https://fivethirtyeight.com/features/the-man-who-solved-jeopardy/" target="_blank"><img src="https://oroeder.github.io/roeder-jeopardy-3.png" width="350"></a><a href="https://fivethirtyeight.com/features/carlsens-bizarre-decision-has-sent-the-world-chess-championship-to-overtime/" target="_blank"><img src="https://oroeder.github.io/roeder-chess-champ-game-12.png" width="350"></a><a href="https://fivethirtyeight.com/features/an-excavation-of-one-of-the-worlds-greatest-art-collections/" target="_blank"><img src="https://oroeder.github.io/roeder-met-3.png" width="350"></a><a href="https://fivethirtyeight.com/features/the-worst-tweeter-in-politics-isnt-trump/" target="_blank"><img src="https://oroeder.github.io/roedermehta-tweets-21.png" width="350"></a>
 
 <a href="https://fivethirtyeight.com/features/what-makes-nigel-richards-the-best-scrabble-player-on-earth/" target="_blank"><img src="https://oroeder.github.io/oliver-feature-scrabble-1.png" width="350"></a>
 
