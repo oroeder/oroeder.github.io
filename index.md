@@ -17,7 +17,7 @@
 
 # Oliver Roeder
 
-I'm currently teaching data journalism at Harvard Summer School. During the 2019–20 academic year, I was a [Nieman Fellow](https://nieman.harvard.edu/alumni/class-of-2020/) at Harvard University studying artificial intelligence. Previously, I was a senior writer and the puzzle editor at [FiveThirtyEight](http://fivethirtyeight.com/).
+I'm on the job market. This summer, I taught data journalism at Harvard Summer School. During the 2019–20 academic year, I was a [Nieman Fellow](https://nieman.harvard.edu/alumni/class-of-2020/) at Harvard University studying artificial intelligence. Previously, I was a senior writer and the puzzle editor at [FiveThirtyEight](http://fivethirtyeight.com/).
 
 Find me [on Twitter](https://twitter.com/ollie) or send me [an email](mailto:oliver_roeder@harvard.edu).
 
