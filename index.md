@@ -33,7 +33,7 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
 
 [*The Riddler: Fantastic Puzzles from FiveThirtyEight*](http://riddlerbook.com/) (W.W. Norton, 2018)
 
->A collection of my weekly math columns and the first book under the FiveThirtyEight banner.
+>A collection of my weekly math columns and the first book under the FiveThirtyEight banner. Will Shortz called it "a modern, smart puzzle book, unlike anything I've seen before, whose math and logic challenges will stretch your brain in new ways."
 
 ## Articles
 
