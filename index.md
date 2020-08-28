@@ -21,7 +21,7 @@ Hello! I'm on the job market. This summer, I taught data journalism at Harvard S
 
 Find me [on Twitter](https://twitter.com/ollie) or send me [an email](mailto:oliver_roeder@harvard.edu).
 
-I am especially interested in competitive subcultures, political strategy, art and its market, and our artificially intelligent future. I did a PhD in economics with a focus on game theory. I live in Brooklyn, New York.
+I am especially interested in games and competitive subcultures, political strategy, art and its market, and our artificially intelligent future. I did a PhD in economics with a focus on game theory. I live in Brooklyn, New York.
 
 Below, you can find my [books](#books), a categorized selection of my [articles](#articles), some examples of my [data visualization](#data-visualization), and a selection of my [media appearances](#media-appearances).
 
