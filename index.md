@@ -29,7 +29,7 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
 
 [*Play: The Games that Make Us Human*](https://twitter.com/ollie/status/1040276336475025409) (W.W. Norton, forthcoming 2021)
 
->For millennia, human beings have played games. For decades, computer scientists have developed artificial intelligence to beat the best human players—in checkers, chess, Go, backgammon, poker, and bridge, to name a few. This book is a narrative history of that man-machine collision and the all-too-human battles for gaming supremacy. It is also an essay on what artificial intelligence and games mean for our species and its future. ![](books.jpg =250x)
+>For millennia, human beings have played games. For decades, computer scientists have developed artificial intelligence to beat the best human players—in checkers, chess, Go, backgammon, poker, and bridge, to name a few. This book is a narrative history of that man-machine collision and the all-too-human battles for gaming supremacy. It is also an essay on what artificial intelligence and games mean for our species and its future. <img src="books.jpg" width="200" style="float:right"/>
 
 [*The Riddler: Fantastic Puzzles from FiveThirtyEight*](http://riddlerbook.com/) (W.W. Norton, 2018)
 
