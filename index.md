@@ -27,7 +27,7 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
 
 ## Books
 
-[*Play: The Battle for the Games that Make Us Human*](https://twitter.com/ollie/status/1040276336475025409) (W.W. Norton, forthcoming 2021)
+[*Play: The Games that Make Us Human*](https://twitter.com/ollie/status/1040276336475025409) (W.W. Norton, forthcoming 2021)
 
 <a href="https://twitter.com/ollie/status/1040276336475025409?s=20" target="_blank"><img src="https://oroeder.github.io/books.jpg" style="float:right;width:100px;"></a>
 
