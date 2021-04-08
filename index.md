@@ -27,7 +27,7 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
 
 ## Books
 
-[*Seven Games: A Human History*](https://twitter.com/ollie/status/1040276336475025409) (W.W. Norton, forthcoming 2021)
+*Seven Games: A Human History* (W.W. Norton, forthcoming Jan. 2022)
 
 <a href="https://twitter.com/ollie/status/1040276336475025409?s=20" target="_blank"><img src="https://oroeder.github.io/books.jpg" style="float:right;width:100px;"></a>
 
