@@ -31,7 +31,7 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
 
 <a href="https://twitter.com/ollie/status/1040276336475025409?s=20" target="_blank"><img src="https://oroeder.github.io/books.jpg" style="float:right;width:100px;"></a>
 
->For millennia, human beings have played games. For decades, computer scientists have developed artificial intelligence to beat the best human players—in checkers, chess, Go, backgammon, poker, and bridge, to name a few. This book is a narrative history of that man-machine collision and the all-too-human battles for gaming supremacy. It is also an essay on what artificial intelligence and games mean for our species and its future.
+>For millennia, human beings have played games. For decades, computer scientists have developed artificial intelligence to beat the best human players—in checkers, chess, Go, backgammon, poker, Scrabble, and bridge, among others. This book is a narrative history of that man-machine collision and the all-too-human battles for gaming supremacy. It is also an essay on what artificial intelligence and games mean for our species and its future.
 
 [*The Riddler: Fantastic Puzzles from FiveThirtyEight*](http://riddlerbook.com/) (W.W. Norton, 2018)
 
