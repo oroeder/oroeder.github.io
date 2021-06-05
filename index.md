@@ -29,7 +29,7 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
 
 *Seven Games: A Human History* (W.W. Norton, forthcoming Jan. 2022)
 
-<img src="https://oroeder.github.io/seven-games.jpeg" style="float:right;width:100px;"></a>
+<img src="https://oroeder.github.io/seven-games.png" style="float:right;width:100px;"></a>
 
 >For millennia, human beings have played games. For decades, computer scientists have developed artificial intelligence to beat the best human players—in checkers, chess, Go, backgammon, poker, Scrabble, and bridge, among others. This book is a narrative history of that human-machine collision and the battles for gaming supremacy. It is also an essay on what artificial intelligence and games mean for our species and its future.
 
