@@ -17,11 +17,9 @@
 
 # Oliver Roeder
 
-Hello! I'm on the job market. This summer, I taught data journalism at Harvard Summer School. During the 2019–20 academic year, I was a [Nieman Fellow](https://nieman.harvard.edu/alumni/class-of-2020/) at Harvard University studying artificial intelligence. Previously, I was a senior writer and the puzzle editor at [FiveThirtyEight](http://fivethirtyeight.com/).
+Hello! I'm a writer in New York City. Recently, I've been a [Nieman Fellow](https://nieman.harvard.edu/alumni/class-of-2020/) at Harvard University studying artificial intelligence, and a senior writer and the puzzle editor at [FiveThirtyEight](http://fivethirtyeight.com/). Find me [on Twitter](https://twitter.com/ollie) or send me [an email](mailto:roeder@uchicago.edu).
 
-Find me [on Twitter](https://twitter.com/ollie) or send me [an email](mailto:roeder@uchicago.edu).
-
-I am especially interested in games and competitive subcultures, political strategy, art and its market, and our artificially intelligent future. I did a PhD in economics with a focus on game theory. I live in Brooklyn, New York.
+I am especially interested in games and competitive subcultures, political strategy, art and its market, and our artificially intelligent future. I did a PhD in economics with a focus on game theory.
 
 Below, you can find my [books](#books), a categorized selection of my [articles](#articles), some examples of my [data visualization](#data-visualization), and a selection of my [media appearances](#media-appearances).
 
