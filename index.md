@@ -123,8 +123,6 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
 
 [Why The Best Supreme Court Predictor In The World Is Some Guy In Queens](http://fivethirtyeight.com/features/why-the-best-supreme-court-predictor-in-the-world-is-some-random-guy-in-queens/)
 
->An unemployed 30-year-old man in Queens, New York, is the best Supreme Court predictor in the world—better than the hotshot lawyers, better than the court reporters, better than the fancy algorithms. In fact, he won FantasySCOTUS, the premier Supreme Court predicting league, three years in a row. But the computers are coming for him. "With time, they might be able to do what they did to Garry Kasparov," he told me.
-
 ### Science and math
 
 [Journalism and Prediction during the Coronavirus Pandemic](https://niemanreports.org/articles/journalism-and-prediction-during-the-coronavirus-pandemic/), *Nieman Reports*
