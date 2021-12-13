@@ -40,14 +40,14 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
 ## Articles
 
 ### Games and sports
+	
+[My dispatches from the World Chess Championship](https://fivethirtyeight.com/tag/world-chess-championship/)
 
 [An A.I. Finally Won an Elite Crossword Tournament](https://slate.com/technology/2021/04/american-crossword-puzzle-tournament-dr-fill-artificial-intelligence.html), *Slate*
 
 [It's Hard To Win At Poker Against An Opponent With No Tell](https://fivethirtyeight.com/features/robots-are-beating-humans-at-poker/)
 
 [The Man Who Solved 'Jeopardy!'](https://fivethirtyeight.com/features/the-man-who-solved-jeopardy/) and [The Battle For 'Jeopardy!' Supremacy](https://fivethirtyeight.com/features/the-battle-for-jeopardy-supremacy/)
-
-[My dispatches from the World Chess Championship](https://fivethirtyeight.com/tag/world-chess-championship/)
 
 [The American Grandmaster Who Could Become World Champion](https://fivethirtyeight.com/features/the-american-grandmaster-who-could-become-world-champion/)
 
