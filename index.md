@@ -41,6 +41,8 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
 
 ### Games and sports
 	
+[How Game Theory Changed Poker](https://www.wsj.com/articles/how-game-theory-changed-poker-11642087507), *The Wall Street Journal*
+	
 [My dispatches from the World Chess Championship](https://fivethirtyeight.com/tag/world-chess-championship/)
 
 [An A.I. Finally Won an Elite Crossword Tournament](https://slate.com/technology/2021/04/american-crossword-puzzle-tournament-dr-fill-artificial-intelligence.html), *Slate*
