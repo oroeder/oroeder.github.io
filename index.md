@@ -40,6 +40,8 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
 ## Articles
 
 ### Games and sports
+
+[Digital Demi-Gods of Dice](https://airmail.news/issues/2022-1-15/digital-demi-gods-of-dice), *Air Mail*
 	
 [How Game Theory Changed Poker](https://www.wsj.com/articles/how-game-theory-changed-poker-11642087507), *The Wall Street Journal*
 	
