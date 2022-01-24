@@ -25,7 +25,7 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
 
 ## Books
 
-[*Seven Games: A Human History*](https://wwnorton.com/books/9781324003779) (W.W. Norton, forthcoming Jan. 2022)
+[*Seven Games: A Human History*](https://wwnorton.com/books/9781324003779) (W.W. Norton, 2022)
 
 <a href="https://wwnorton.com/books/9781324003779" target="_blank"><img src="https://oroeder.github.io/seven-games.png" style="float:right;width:100px;">
 
