@@ -181,21 +181,9 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
            
 ## Media appearances
 
-### Video
-
-[What Makes The Spelling Bee So Hard](https://www.facebook.com/fivethirtyeight/videos/vl.337135929962582/1465697286807429/?type=1)
-
-[An Excavation Of One Of The World's Greatest Art Collections](https://www.facebook.com/fivethirtyeight/videos/1404765999567225/)
-
-[Reporting live from the World Chess Championship](https://twitter.com/FiveThirtyEight/status/799381108861247488)
-
-[The darkest town in the U.S. may not be so dark for much longer](https://www.facebook.com/fivethirtyeight/videos/1351102804933545/)
-
-[The story behind breaking a crossword plagiarism scandal](https://www.facebook.com/fivethirtyeight/videos/1117576721619489/)
-
-[Can an astrophysicist change the way we watch sports?](http://www.espn.com/core/video/iframe?id=13979112)
-
 ### Audio and print
+	
+Discussing "Seven Games" on the [New York Times Book Review podcast](https://www.nytimes.com/2022/01/28/books/review/podcast-imani-perry-south-to-america-oliver-roeder-seven-games.html), Slate's [Hang Up and Listen](https://slate.com/podcasts/hang-up-and-listen/2022/01/the-nfl-playoffs-lusia-harris-and-seven-games-on-hang-up-and-listen), and [Perpetual Chess](https://www.perpetualchesspod.com/new-blog/2022/1/25/ep-263-ep-263-author-oliver-roeder-on-the-enduring-appeal-of-chess-and-other-games)
 
 ["Jeopardy!" analytics](https://www.cbc.ca/radio/day6/canada-s-flood-map-failures-jeopardy-s-new-champ-so-long-payless-shoes-and-more-1.5110560/the-nerds-are-winning-how-james-holzhauer-is-using-analytics-to-win-at-jeopardy-1.5110628) on the CBC's Day 6
 
@@ -216,5 +204,19 @@ Chess on [Slate's Hang Up and Listen](http://www.slate.com/articles/podcasts/han
 ["Mass Incarceration: The Silence of the Judges"](http://www.nybooks.com/articles/2015/05/21/mass-incarceration-silence-judges/) in the New York Review of Books
 
 [Crossword plagiarism](https://www.kcrw.com/news-culture/shows/press-play-with-madeleine-brand/remembering-nancy-reagan-and-binge-watching-house-of-cards#seg-crossword-plagiarism) on KCRW's Press Play
+	
+### Video
+
+[What Makes The Spelling Bee So Hard](https://www.facebook.com/fivethirtyeight/videos/vl.337135929962582/1465697286807429/?type=1)
+
+[An Excavation Of One Of The World's Greatest Art Collections](https://www.facebook.com/fivethirtyeight/videos/1404765999567225/)
+
+[Reporting live from the World Chess Championship](https://twitter.com/FiveThirtyEight/status/799381108861247488)
+
+[The darkest town in the U.S. may not be so dark for much longer](https://www.facebook.com/fivethirtyeight/videos/1351102804933545/)
+
+[The story behind breaking a crossword plagiarism scandal](https://www.facebook.com/fivethirtyeight/videos/1117576721619489/)
+
+[Can an astrophysicist change the way we watch sports?](http://www.espn.com/core/video/iframe?id=13979112)
 
 ["FiveThirtyEight Enters the Puzzle Game"](http://observer.com/2015/12/fivethirtyeight-enters-the-puzzle-game/) in the New York Observer
