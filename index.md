@@ -183,9 +183,9 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
 
 ### Audio and print
 	
-Discussing "Seven Games" on the [New York Times Book Review podcast](https://www.nytimes.com/2022/01/28/books/review/podcast-imani-perry-south-to-america-oliver-roeder-seven-games.html), Slate's [Hang Up and Listen](https://slate.com/podcasts/hang-up-and-listen/2022/01/the-nfl-playoffs-lusia-harris-and-seven-games-on-hang-up-and-listen), and [Perpetual Chess](https://www.perpetualchesspod.com/new-blog/2022/1/25/ep-263-ep-263-author-oliver-roeder-on-the-enduring-appeal-of-chess-and-other-games)
+Discussing *Seven Games* on the [New York Times Book Review podcast](https://www.nytimes.com/2022/01/28/books/review/podcast-imani-perry-south-to-america-oliver-roeder-seven-games.html), Slate's [Hang Up and Listen](https://slate.com/podcasts/hang-up-and-listen/2022/01/the-nfl-playoffs-lusia-harris-and-seven-games-on-hang-up-and-listen), and [Perpetual Chess](https://www.perpetualchesspod.com/new-blog/2022/1/25/ep-263-ep-263-author-oliver-roeder-on-the-enduring-appeal-of-chess-and-other-games)
 
-["Jeopardy!" analytics](https://www.cbc.ca/radio/day6/canada-s-flood-map-failures-jeopardy-s-new-champ-so-long-payless-shoes-and-more-1.5110560/the-nerds-are-winning-how-james-holzhauer-is-using-analytics-to-win-at-jeopardy-1.5110628) on the CBC's Day 6
+[*Jeopardy!* analytics](https://www.cbc.ca/radio/day6/canada-s-flood-map-failures-jeopardy-s-new-champ-so-long-payless-shoes-and-more-1.5110560/the-nerds-are-winning-how-james-holzhauer-is-using-analytics-to-win-at-jeopardy-1.5110628) on the CBC's Day 6
 
 [The trade war is over (I lost)](https://www.marketplace.org/2018/04/09/world/trade-war-over-i-lost) on NPR's Marketplace
 
@@ -206,6 +206,8 @@ Chess on [Slate's Hang Up and Listen](http://www.slate.com/articles/podcasts/han
 [Crossword plagiarism](https://www.kcrw.com/news-culture/shows/press-play-with-madeleine-brand/remembering-nancy-reagan-and-binge-watching-house-of-cards#seg-crossword-plagiarism) on KCRW's Press Play
 	
 ### Video
+	
+Discussing *Seven Games* at [Talks at Google](https://www.youtube.com/watch?v=vlG1c-68wow)
 
 [What Makes The Spelling Bee So Hard](https://www.facebook.com/fivethirtyeight/videos/vl.337135929962582/1465697286807429/?type=1)
 
