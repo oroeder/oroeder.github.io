@@ -19,7 +19,7 @@
 
 Hello! I'm a journalist and author in New York City. Recently, I've been a [Nieman Fellow](https://nieman.harvard.edu/alumni/class-of-2020/) at Harvard studying artificial intelligence, and a senior writer and the puzzle editor at [FiveThirtyEight](http://fivethirtyeight.com/). Find me [on Twitter](https://twitter.com/ollie) or send me [an email](mailto:roeder@uchicago.edu).
 
-I am especially interested in games and competitive subcultures, political strategy, art and its market, and our artificially intelligent future. I did a PhD in economics with a focus on game theory. Sometimes I write [crossword puzzles](https://oroeder.github.io/Aug1921.pdf).
+I am especially interested in games and competitive subcultures, political ideology and strategy, art and its market, and our artificially intelligent future. I did a PhD in economics with a focus on game theory. Sometimes I write [crossword puzzles](https://oroeder.github.io/Aug1921.pdf).
 
 Below, you can find my [books](#books), a categorized selection of my [articles](#articles), some examples of my [data visualization](#data-visualization), and a selection of my [media appearances](#media-appearances).
 
