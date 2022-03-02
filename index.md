@@ -181,11 +181,15 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
            
 ## Media appearances
 
-### Audio and print
+### Print
+
+*Seven Games* reviewed in the [New York Times](https://www.nytimes.com/2022/01/25/books/review/seven-games-oliver-roeder.html), [Wall Street Journal](https://www.wsj.com/articles/seven-games-book-review-chess-knights-poker-cowboys-and-the-rise-of-the-computer-opponent-11642780517), [Times Literary Supplement](https://www.the-tls.co.uk/articles/seven-games-oliver-roeder-book-review-james-mcconnachie/), and [Nature](https://www.nature.com/articles/d41586-022-00485-w), and an interview about the book in [Alcalde](https://alcalde.texasexes.org/2022/03/oliver-roeder-seven-games-book/)
+
+["Mass Incarceration: The Silence of the Judges"](http://www.nybooks.com/articles/2015/05/21/mass-incarceration-silence-judges/) in the New York Review of Books, on my postdoc research
+
+### Audio
 	
 Discussing *Seven Games* on the [New York Times Book Review podcast](https://www.nytimes.com/2022/01/28/books/review/podcast-imani-perry-south-to-america-oliver-roeder-seven-games.html), Slate's [Hang Up and Listen](https://slate.com/podcasts/hang-up-and-listen/2022/01/the-nfl-playoffs-lusia-harris-and-seven-games-on-hang-up-and-listen), and [Perpetual Chess](https://www.perpetualchesspod.com/new-blog/2022/1/25/ep-263-ep-263-author-oliver-roeder-on-the-enduring-appeal-of-chess-and-other-games)
-	
-*Seven Games* reviewed in the [New York Times](https://www.nytimes.com/2022/01/25/books/review/seven-games-oliver-roeder.html), [Wall Street Journal](https://www.wsj.com/articles/seven-games-book-review-chess-knights-poker-cowboys-and-the-rise-of-the-computer-opponent-11642780517), [Times Literary Supplement](https://www.the-tls.co.uk/articles/seven-games-oliver-roeder-book-review-james-mcconnachie/), and [Nature](https://www.nature.com/articles/d41586-022-00485-w), and an interview about the book in [Alcalde](https://alcalde.texasexes.org/2022/03/oliver-roeder-seven-games-book/)
 
 [*Jeopardy!* analytics](https://www.cbc.ca/radio/day6/canada-s-flood-map-failures-jeopardy-s-new-champ-so-long-payless-shoes-and-more-1.5110560/the-nerds-are-winning-how-james-holzhauer-is-using-analytics-to-win-at-jeopardy-1.5110628) on the CBC's Day 6
 
@@ -202,8 +206,6 @@ Chess on [Slate's Hang Up and Listen](http://www.slate.com/articles/podcasts/han
 [The economic enigma of Ikea](http://www.marketplace.org/2016/11/23/world/more-meatballs-economic-enigma-ikea) on NPR's Marketplace
 
 [A Million Little Boxes](http://www.nonfictionpodcast.com/2016/03/21/million-little-boxes-oliver-roeder/) on the Nonfiction Podcast
-
-["Mass Incarceration: The Silence of the Judges"](http://www.nybooks.com/articles/2015/05/21/mass-incarceration-silence-judges/) in the New York Review of Books
 
 [Crossword plagiarism](https://www.kcrw.com/news-culture/shows/press-play-with-madeleine-brand/remembering-nancy-reagan-and-binge-watching-house-of-cards#seg-crossword-plagiarism) on KCRW's Press Play
 	
