@@ -183,7 +183,7 @@ Below, you can find my [books](#books), a categorized selection of my [articles]
 
 ### Print
 
-*Seven Games* reviewed in the [New York Times](https://www.nytimes.com/2022/01/25/books/review/seven-games-oliver-roeder.html), [Wall Street Journal](https://www.wsj.com/articles/seven-games-book-review-chess-knights-poker-cowboys-and-the-rise-of-the-computer-opponent-11642780517), [Times Literary Supplement](https://www.the-tls.co.uk/articles/seven-games-oliver-roeder-book-review-james-mcconnachie/), and [Nature](https://www.nature.com/articles/d41586-022-00485-w), and an interview about the book in [Alcalde](https://alcalde.texasexes.org/2022/03/oliver-roeder-seven-games-book/)
+*Seven Games* reviewed in the [New York Times](https://www.nytimes.com/2022/01/25/books/review/seven-games-oliver-roeder.html), [Washington Post](https://www.washingtonpost.com/outlook/2022/03/04/seven-games-that-challenge-human-brain-teach-computers-think/), [Wall Street Journal](https://www.wsj.com/articles/seven-games-book-review-chess-knights-poker-cowboys-and-the-rise-of-the-computer-opponent-11642780517), [Times Literary Supplement](https://www.the-tls.co.uk/articles/seven-games-oliver-roeder-book-review-james-mcconnachie/), and [Nature](https://www.nature.com/articles/d41586-022-00485-w), and an interview about the book in [Alcalde](https://alcalde.texasexes.org/2022/03/oliver-roeder-seven-games-book/)
 
 ["Mass Incarceration: The Silence of the Judges"](http://www.nybooks.com/articles/2015/05/21/mass-incarceration-silence-judges/) in the New York Review of Books, on my postdoc research
 	
