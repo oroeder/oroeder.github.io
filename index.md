@@ -17,7 +17,7 @@
 
 # Oliver Roeder
 
-Hello! I'm a journalist and author in New York City. I will soon be senior data journalist at the [Financial Times](https://www.ft.com/). Previously, I was a [Nieman Fellow](https://nieman.harvard.edu/alumni/class-of-2020/) at Harvard studying artificial intelligence, and a senior writer and the puzzle editor at [FiveThirtyEight](http://fivethirtyeight.com/). Find me [on Twitter](https://twitter.com/ollie) or send me [an email](mailto:roeder@uchicago.edu).
+Hello! I'm a journalist and author in New York City. I am a senior data journalist at the [Financial Times](https://www.ft.com/). Previously, I was a [Nieman Fellow](https://nieman.harvard.edu/alumni/class-of-2020/) at Harvard studying artificial intelligence, and a senior writer and the puzzle editor at [FiveThirtyEight](http://fivethirtyeight.com/). Find me [on Twitter](https://twitter.com/ollie) or send me [an email](mailto:oliver.roeder@ft.com).
 
 I am especially interested in games and competitive subcultures, political ideology and strategy, art and its market, and our artificially intelligent future. I did a PhD in economics with a focus on game theory. Sometimes I write [crossword](https://oroeder.github.io/Mar3122.pdf) [puzzles](https://oroeder.github.io/Aug1921.pdf).
 
