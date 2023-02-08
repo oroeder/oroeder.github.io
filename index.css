@@ -1,0 +1,60 @@
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,select,option { margin: 0; padding: 0; } fieldset, img { border: 0; } img { display: block; } ol,ul,dl { list-style: none; } h1,h2,h3,h4,h5,h6 { font-size: 100%; font-weight: normal; }
+
+
+body {
+  font-size: 16px;
+  line-height: 26px;
+  color: black;
+  background: #F8F9F9;
+  font-family: 'Helvetica';
+}
+
+a {
+  color: darkblue;
+  text-decoration: underline;
+}
+  a:hover {
+    text-decoration: none;
+  }
+
+#container {
+  padding: 20px;
+  display: grid;
+}
+
+@media (min-width: 500px) {
+  #container {
+    margin: 30px auto;
+    max-width: 800px;
+    grid-gap: 15px;
+  }
+
+    #container h1         { grid-column: 1 / span 6; }
+    #container .spacer    { grid-column: 1 / span 6; height: 0px; margin: 5px 0; border-bottom: 1px solid black; }
+    #container h2         { grid-column: 1 / span 1; }
+    #container .subheader { grid-column: 2 / span 1; }
+    #container .detail    { grid-column: 3 / span 4; }
+    #container .summary   { grid-column: 2 / span 5; } 
+}
+
+
+#container {
+}
+
+  h1 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  h2 {
+    font-weight: 100;
+  }
+
+  .subheader { }
+    h3 {
+      font-weight: bold;
+    }
+    .subheader .date {
+      font-weight: 100;
+    }
