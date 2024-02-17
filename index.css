@@ -12,7 +12,7 @@ body {
 
 a {
   color: darkblue;
-  text-decoration: underline;
+  text-decoration: none;
 }
   a:hover {
     text-decoration: none;
